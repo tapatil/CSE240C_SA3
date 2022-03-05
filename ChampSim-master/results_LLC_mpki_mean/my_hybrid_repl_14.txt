@@ -1,0 +1,2 @@
+The Geometric Mean is: 7.0401781730
+The Arithmatic Mean is: 18.8500852941
